@@ -4,4 +4,5 @@ Feature Engineering est inestimable pour développer et enrichir vos modèles d'
 
 Ce repo couvre les fonctionnalités intéressantes suivantes:
 * Se familiariser avec l'imputation des valeurs manquantes
-* Travailler avec des valeurs aberrantes
+* Travailler avec des valeurs aberrantes.
+* la discrétisation des variables
