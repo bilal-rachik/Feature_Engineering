@@ -6,3 +6,4 @@ Ce repo couvre les fonctionnalités intéressantes suivantes:
 * Se familiariser avec l'imputation des valeurs manquantes
 * Travailler avec des valeurs aberrantes.
 * la discrétisation des variables
+* Codage des variables catégorielles
