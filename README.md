@@ -8,3 +8,4 @@ Ce repo couvre les fonctionnalités intéressantes suivantes:
 * La discrétisation des variables
 * Codage des variables catégorielles
 * Transformation de variables numériques
+* Feature Scaling
