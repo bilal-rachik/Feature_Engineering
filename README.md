@@ -10,3 +10,4 @@ Ce repo couvre les fonctionnalités intéressantes suivantes:
 * Transformation de variables numériques
 * Feature Scaling
 * Dérivation de caractéristiques à partir de variables de date et d'heure
+* Application de calculs mathématiques aux Features
